@@ -26,5 +26,23 @@
     3. MLFLOW_TRACKING_PASSWORD=< you will get it from dagshub when you connect your GitHub repo to dagshub >
 
 # Screenshot of this Project In DagsHub and MLflow
-    1. DagsHub repo
-    ![Screenshot (125)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/0cc8db7f-3ed1-43cb-a29f-97f93a7af00c)
+   # 1. DagsHub repo
+![Screenshot (125)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/0cc8db7f-3ed1-43cb-a29f-97f93a7af00c)
+   # 2. DagsHub Experiments - 1
+![Screenshot (120)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/ab1a0bea-cc98-424b-b787-81dd73db83ca)
+   # 3. DagsHub Experiments - 2
+![Screenshot (121)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/61399a55-8e38-4481-8b96-c9dc55a84280)
+   # 4. DagsHub Experiments - 3
+![Screenshot (122)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/efe89e56-0804-43fd-9181-82f6debc1e23)
+   # 5. DagsHub Mlflow - 4
+![Screenshot (116)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/962789eb-c1cc-47af-b891-6b400cd29547)
+   # 6. DagsHub Mlflow - 5
+![Screenshot (117)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/28fe831b-c721-4a33-9a3b-c3c21a098248)
+   # 7. DagsHub Mlflow - 6
+![Screenshot (118)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/bb1df2e8-3a40-46a9-9e11-f28a055a1bdf)
+   # 8. DagsHub Mlflow - 7
+![Screenshot (119)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/20a06039-1b93-49d0-92b3-fb393139e29d)
+   # 9. DagsHub Mlflow - 8
+![Screenshot (123)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/887ea1a4-fc48-4de6-9ab0-55e34397e66f)
+   # 10. DagsHub Mlflow - 9
+![Screenshot (124)](https://github.com/satyam19mishra/DagsHub_MLflow_Exp/assets/103360091/31e6301e-d015-4203-8129-7df171222a13)
